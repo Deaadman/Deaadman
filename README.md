@@ -21,13 +21,25 @@ I'm someone who is passionate about developing modifications for video games, a 
 
 ## 🔥 Repositories
 ### Featured Repositories
-[![ModComponent SDK](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=modcomponentsdk\&description_lines_count=2)](https://github.com/deaadman/modcomponentsdk) [![Universal Tweaks-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=default)](https://github.com/deaadman/universaltweaks) [![Adaptive Arsenal-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal)](https://github.com/deaadman/adaptivearsenal)
+[![ModComponent SDK-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=modcomponentsdk&description_lines_count=2&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/modcomponentsdk#gh-dark-mode-only)
+[![ModComponent SDK-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=modcomponentsdk&description_lines_count=2&theme=default#gh-light-mode-only)](https://github.com/deaadman/modcomponentsdk#gh-light-mode-only)
+[![Universal Tweaks-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/universaltweaks#gh-dark-mode-only)
+[![Universal Tweaks-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=default#gh-light-mode-only)](https://github.com/deaadman/universaltweaks#gh-light-mode-only)
+[![Adaptive Arsenal-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adaptivearsenal#gh-dark-mode-only)
+[![Adaptive Arsenal-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=default#gh-light-mode-only)](https://github.com/deaadman/adaptivearsenal#gh-light-mode-only)
 
 ### Modification Repositories
 <details>
     <summary>The Long Dark</summary>
-    
-[![Universal Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks)](https://github.com/deaadman/universaltweaks) [![Adaptive Arsenal](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal)](https://github.com/deaadman/adapativearsenal)  [![Item Rarities](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=itemrarities)](https://github.com/deaadman/itemrarities) [![Eternal Weather](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=eternalweather)](https://github.com/deaadman/eternalweather)
+
+[![Universal Tweaks-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/universaltweaks#gh-dark-mode-only)
+[![Universal Tweaks-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=default#gh-light-mode-only)](https://github.com/deaadman/universaltweaks#gh-light-mode-only)
+[![Adaptive Arsenal-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adapativearsenal#gh-dark-mode-only)
+[![Adaptive Arsenal-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=default#gh-light-mode-only)](https://github.com/deaadman/adapativearsenal#gh-light-mode-only)
+[![Item Rarities-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=itemrarities&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/itemrarities#gh-dark-mode-only)
+[![Item Rarities-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=itemrarities&theme=default#gh-light-mode-only)](https://github.com/deaadman/itemrarities#gh-light-mode-only)
+[![Eternal Weather-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=eternalweather&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/eternalweather#gh-dark-mode-only)
+[![Eternal Weather-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=eternalweather&theme=default#gh-light-mode-only)](https://github.com/deaadman/eternalweather#gh-light-mode-only)
 
 </details>
 
@@ -35,16 +47,9 @@ I'm someone who is passionate about developing modifications for video games, a 
 
 ## 📊 GitHub Statistics
 
-![Deadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaadman)
+Coming Soon...
 
 ## 📊 WakaTime Stats
 <details>
-    <summary>Programming Languages Statistics</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deadman&api_domain=wakapi.dev" alt="Deadman's WakaTime Programming Languages Statistics">
-
-![Metrics](https://metrics.lecoq.io/Deaadman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=Deadman&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=365&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Australia%2FAdelaide)
-    
-</details>
-<details>
-    <summary>More to come...</summary>
+    <summary>Coming Soon...</summary>
 </details>
