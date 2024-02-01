@@ -41,6 +41,9 @@ I'm someone who is passionate about developing modifications for video games, a 
 <details>
     <summary>Programming Languages Statistics</summary>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deadman&api_domain=wakapi.dev" alt="Deadman's WakaTime Programming Languages Statistics">
+
+![Metrics](https://metrics.lecoq.io/Deaadman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=Deadman&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=365&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Australia%2FAdelaide)
+    
 </details>
 <details>
     <summary>More to come...</summary>
