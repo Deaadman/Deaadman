@@ -1,33 +1,26 @@
 # Hello, I'm Deadman!
 
-I'm a software developer with a passion for building scalable web applications and working on innovative projects that challenge the status quo. Currently, I'm employed at _Your Company_, where I specialize in back-end development, data analytics, and creating intuitive user experiences. In my spare time, I love contributing to open-source projects and exploring new technologies in the AI and blockchain spaces.
+I'm someone who is passionate about developing modifications for video games, a craft that first introduced me to programming. My most notable modding work has been for [The Long Dark](https://www.thelongdark.com/), and I constantly seek new learning opportunities to broaden my skillset. Currently, I am employed in a full-time position at **Click Studios (SA) Pty Ltd**, where I have the chance to enhance my skills in areas that are new to me.
 
 ## 🛠 Skills and Expertise
 **Programming Languages:** 
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![VB](https://img.shields.io/badge/Visual%20Basic-%239561CC.svg?style=for-the-badge&logo=visualbasic&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
-**Frameworks & Libraries:** 
+**Frameworks & Libraries:**
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+**Databases:**
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
-**Databases:** 
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-**Tools & Platforms:** 
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Chrome Browser](https://img.shields.io/badge/chrome%20browser-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Edge Browser](https://img.shields.io/badge/edge%20browser-%230078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Brave Browser](https://img.shields.io/badge/brave%20browser-%23FB542B.svg?style=for-the-badge&logo=brave&logoColor=white) ![Firefox Browser](https://img.shields.io/badge/firefox%20browser-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Tools & Platforms:**
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Chrome Browser](https://img.shields.io/badge/chrome%20browser-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/) [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Edge Browser](https://img.shields.io/badge/edge%20browser-%230078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://www.microsoft.com/edge) [![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Brave Browser](https://img.shields.io/badge/brave%20browser-%23FB542B.svg?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/) [![Firefox Browser](https://img.shields.io/badge/firefox%20browser-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/) [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 ## 🔥 Projects and Contributions
 ### Featured Projects
-- **Project Name 1:** A web application for real-time data analytics. My role involved backend development and implementing data visualization features. [View Project](#)
-- **Project Name 2:** An open-source contribution to a popular machine learning framework, where I added support for a new algorithm. [View Contribution](#)
+[![ModComponent SDK-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=modcomponentsdk&theme=default#gh-light-mode-only)](https://github.com/deaadman/modcomponentsdk) [![ModComponent SDK-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=modcomponentsdk&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/modcomponentsdk) [![Universal Tweaks-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=default#gh-light-mode-only)](https://github.com/deaadman/universaltweaks)  [![Universal Tweaks-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/universaltweaks) [![Adaptive Arsenal-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=default#gh-light-mode-only)](https://github.com/deaadman/adapativearsenal) [![Adaptive Arsenal-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adapativearsenal)
 
-![Metrics](https://metrics.lecoq.io/Deaadman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=6&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Australia%2FAdelaide)
-
-### Open Source Contributions
-- Contributed to several projects, including fixes and feature enhancements. Check out my contributions [here](https://github.com/_your_username_).
+### All Of My 'The Long Dark' Mods
+[![Universal Tweaks-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=default#gh-light-mode-only)](https://github.com/deaadman/universaltweaks)  [![Universal Tweaks-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=universaltweaks&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/universaltweaks) [![Adaptive Arsenal-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=default#gh-light-mode-only)](https://github.com/deaadman/adapativearsenal) [![Adaptive Arsenal-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=adaptivearsenal&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adapativearsenal) [![Item Rarities-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=itemrarities&theme=default#gh-light-mode-only)](https://github.com/deaadman/adapativearsenal) [![Item Rarities-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=itemrarities&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adapativearsenal) [![Eternal Weather-Light](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=eternalweather&theme=default#gh-light-mode-only)](https://github.com/deaadman/adapativearsenal) [![Eternal Weather-Dark](https://github-readme-stats.vercel.app/api/pin/?username=deaadman&repo=eternalweather&theme=dark#gh-dark-mode-only)](https://github.com/deaadman/adapativearsenal)
 
 ## 📊 GitHub Statistics
 <details>
@@ -35,11 +28,7 @@ I'm a software developer with a passion for building scalable web applications a
     <img src="https://github-readme-stats.vercel.app/api?username=Deaadman&show_icons=true&theme=radical" alt="GitHub GitHub Summary Statistics">
 </details>
 
-
 ## 📊 WakaTime Stats
-
-![Metrics](https://metrics.lecoq.io/Deaadman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakapi.dev%2F&wakatime.user=Deadman&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors&wakatime.days=365&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Australia%2FAdelaide)
-
 <details>
     <summary>Programming Languages Statistics</summary>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deadman&api_domain=wakapi.dev" alt="Deadman's WakaTime Programming Languages Statistics">
