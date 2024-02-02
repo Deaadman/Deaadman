@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 12am ACDT (Adelaide during Daylight Saving Time), which is 1:30 PM UTC.
+    - cron: '30 13 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -19,4 +19,8 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
-          
+          SHOW_LANGUAGE_PER_REPO: "False"
+          DEBUG_LOGGING: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_UPDATED_DATE: "False"
