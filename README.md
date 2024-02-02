@@ -46,9 +46,5 @@ wakatime-cli             1 min               ░░░░░░░░░░░�
 unity-wakatime#installati0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Deaadman/Deaadman/master/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
