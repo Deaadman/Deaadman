@@ -21,10 +21,6 @@ I'm someone who is passionate about developing modifications for video games, a 
  
 ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2015%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,20 +46,9 @@ wakatime-cli             1 min               ░░░░░░░░░░░�
 unity-wakatime#installati0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
-**I Mostly Code in C#** 
-
-```text
-C#                       7 repos             ███████████████████░░░░░░   77.78 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Lua                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Deaadman/Deaadman/master/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2024 23:16:17 UTC
 <!--END_SECTION:waka-->
