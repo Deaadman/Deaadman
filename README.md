@@ -22,19 +22,8 @@ I'm someone who is passionate about developing modifications for video games, a 
 ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
 
-```txt
-From: 15 January 2022 - To: 02 February 2024
-
-Total Time: 45 hrs 38 mins
-
-Blender    22 hrs 16 mins  ████████████▒░░░░░░░░░░░░   48.78 %
-C#         9 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-HTML       3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Other      2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-VB.NET     1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-```
-
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-additional-->
-<!--END_SECTION:waka-additional-->
+<!--START_SECTION:wakaaddon-->
+
+<!--END_SECTION:wakaaddon-->

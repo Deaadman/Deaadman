@@ -1,13 +1,14 @@
-name: Waka Readme Stats
+name: Waka Readme
 
 on:
   schedule:
+    # Runs at 12am ACDT (Adelaide during Daylight Saving Time), which is 1:30 PM UTC.
     - cron: '30 13 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-stats:
-    name: Update Readme with WakaTime Stats
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -26,3 +27,12 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "wakaaddon"
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          SHOW_TITLE: true
