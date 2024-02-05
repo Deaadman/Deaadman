@@ -5,7 +5,7 @@ I'm someone who is passionate about developing modifications for video games, a 
 ## 🛠 Skills and Expertise
 **Programming Languages:** 
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![VB](https://img.shields.io/badge/Visual%20Basic-%239561CC.svg?style=for-the-badge&logo=visualbasic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/) [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) [![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![VB](https://img.shields.io/badge/VB.NET-%239561CC.svg?style=for-the-badge&logo=visualbasic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/) [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) [![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 
 **Frameworks & Libraries:**
 
