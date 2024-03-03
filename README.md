@@ -29,7 +29,7 @@ App Server               23 mins             ░░░░░░░░░░░�
 <!--START_SECTION:wakaaddon-->
 
 ```txt
-From: 15 January 2022 - To: 01 March 2024
+From: 15 January 2022 - To: 02 March 2024
 
 Total Time: 149 hrs 59 mins
 
