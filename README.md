@@ -28,7 +28,7 @@ GEAR_RifleBody           21 mins             ░░░░░░░░░░░�
 <!--START_SECTION:wakaaddon-->
 
 ```txt
-From: 15 January 2022 - To: 08 March 2024
+From: 15 January 2022 - To: 09 March 2024
 
 Total Time: 177 hrs 33 mins
 
