@@ -28,7 +28,7 @@ M                        48 mins             █░░░░░░░░░░�
 <!--START_SECTION:wakaaddon-->
 
 ```txt
-From: 15 January 2022 - To: 10 March 2024
+From: 15 January 2022 - To: 11 March 2024
 
 Total Time: 178 hrs 30 mins
 
