@@ -29,7 +29,7 @@ ExampleUIProject         59 mins             ██░░░░░░░░░�
 <!--START_SECTION:wakaaddon-->
 
 ```txt
-From: 15 January 2022 - To: 15 March 2024
+From: 15 January 2022 - To: 16 March 2024
 
 Total Time: 188 hrs 56 mins
 
